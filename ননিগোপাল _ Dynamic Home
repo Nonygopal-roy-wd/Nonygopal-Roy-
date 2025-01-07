@@ -1,0 +1,76 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8080/jm.html#
+Subject: =?utf-8?Q?=E0=A6=A8=E0=A6=A8=E0=A6=BF=E0=A6=97=E0=A7=8B=E0=A6=AA=E0=A6=BE?=
+ =?utf-8?Q?=E0=A6=B2=20|=20Dynamic=20Home?=
+Date: Wed, 8 Jan 2025 01:15:22 +0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--29MGgpowimnbCDnpIBBoOxdUA8UZQQ0wRIleAqsNE3----"
+
+
+------MultipartBoundary--29MGgpowimnbCDnpIBBoOxdUA8UZQQ0wRIleAqsNE3----
+Content-Type: text/html
+Content-ID: <frame-AB29881682B94DF600680BACB2AB34A7@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8080/jm.html#
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-e6c7b3b4-6b1c-4065-8891-38344830facc@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ননিগোপাল | Dynamic Home</title>
+    
+</head>
+<body>
+    <header>
+        <h1>ননিগোপাল</h1>
+        <p>আপনার বিশ্বাস, আমাদের দায়িত্ব</p>
+    </header>
+    <nav>
+        <a href="http://localhost:8080/jm.html#">About</a>
+        <a href="http://localhost:8080/jm.html#">Services</a>
+        <a href="http://localhost:8080/jm.html#">Contact</a>
+    </nav>
+    <div class="content" id="dynamic-content">
+                    <h2>Our Services</h2>
+                    <ul>
+                        <li>Trusted Consultancy</li>
+                        <li>24/7 Support</li>
+                        <li>Custom Solutions</li>
+                    </ul>
+                </div>
+    <footer>
+        <p>© 2025 ননিগোপাল | All Rights Reserved</p>
+    </footer>
+    
+
+</body></html>
+------MultipartBoundary--29MGgpowimnbCDnpIBBoOxdUA8UZQQ0wRIleAqsNE3----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-e6c7b3b4-6b1c-4065-8891-38344830facc@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: Arial, sans-serif; background-color: rgb(244, 244, 249); color: rgb(51, 51, 51); }
+
+header { background-color: rgb(0, 115, 230); color: rgb(255, 255, 255); padding: 20px; text-align: center; }
+
+header h1 { margin: 0px; font-size: 2.5rem; }
+
+nav { display: flex; justify-content: center; background: rgb(0, 91, 181); }
+
+nav a { padding: 15px 20px; text-decoration: none; color: rgb(255, 255, 255); font-size: 1.2rem; }
+
+nav a:hover { background-color: rgb(0, 68, 148); }
+
+.content { padding: 30px; text-align: center; }
+
+.content h2 { font-size: 2rem; margin-bottom: 20px; }
+
+.content p { font-size: 1.2rem; }
+
+footer { text-align: center; padding: 20px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+
+footer p { margin: 0px; }
+------MultipartBoundary--29MGgpowimnbCDnpIBBoOxdUA8UZQQ0wRIleAqsNE3------
